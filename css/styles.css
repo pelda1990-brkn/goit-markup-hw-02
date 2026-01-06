@@ -5,7 +5,7 @@ body {
     font-size: 16px;
     width: 1440px;
     color: #434455;
-    background-color: #ffffff;
+    background-color: #FFFFFF;
 }
 
 .logo {
@@ -17,19 +17,19 @@ body {
 }
 
 .web {
-    color: #141a57;
+    color: #4D5AE5;
 }
 
 .studio {
     color: #2e2f42;
 }
 
-.a {
+a {
     text-decoration: none;
 
 }
 
-.ul {
+ul {
     list-style: none;
 }
 
@@ -41,11 +41,11 @@ body {
     color: #404bbf;
 }
 
-.adress a {
+adress a {
     color: #434455;
 }
 
-.h1 {
+h1 {
     font-weight: 700;
     font-size: 56px;
     letter-spacing: 0.02em;
@@ -58,7 +58,7 @@ body {
 }
 
 .hero button {
-    background-color: #2e2f42;
+    background-color: #4D5AE5;
     font-size: 16px;
     cursor: pointer;
     color: #ffffff;
@@ -126,7 +126,4 @@ footer p {
     color: #f4f4fd;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-.studio {
-    color: #f4f4fd
 }
