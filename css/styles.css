@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto,Raleway" sans-serif;
+    font-family: "Roboto", "Raleway",sans-serif;
 
     line-height: 1.5;
     font-size: 16px;
@@ -9,7 +9,7 @@ body {
 }
 
 .logo {
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.166;
@@ -41,7 +41,7 @@ ul {
     color: #404bbf;
 }
 
-adress a {
+address a {
     color: #434455;
 }
 
@@ -65,7 +65,7 @@ h1 {
 }
 
 .hero button:hover {
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .features h3 {
@@ -117,7 +117,7 @@ h1 {
 }
 
 footer {
-    background-color: #434343;
+    background-color: #2e2f42;
 }
 
 footer p {
@@ -126,4 +126,7 @@ footer p {
     color: #f4f4fd;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.studio-1 {
+    color: #f4f4fd
 }
